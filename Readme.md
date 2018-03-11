@@ -11,6 +11,7 @@
 Description
 ===========
 https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/
+
 Creating a stageless payload for Cobalt Strike with SharpShooter
 [video](https://vimeo.com/259229745)
 

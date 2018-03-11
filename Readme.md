@@ -10,6 +10,8 @@
 
 Description
 ===========
+https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/
+https://vimeo.com/259229745
 
 SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.
 SharpShooter is capable of creating payloads in a variety of formats, including HTA, JS, VBS and WSF. It leverages James Forshaw's [DotNetToJavaScript](https://github.com/tyranid/DotNetToJScript) tool to invoke methods from the SharpShooter DotNet serialised object. Payloads can be retrieved using Web or DNS delivery or both; SharpShooter is compatible with the MDSec ActiveBreach PowerDNS project. Alternatively, stageless payloads with embedded shellcode execution can also be generated for the same scripting formats.
